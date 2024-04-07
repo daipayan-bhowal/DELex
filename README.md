@@ -70,3 +70,5 @@ List of all the values for token macros<br />
 #define VOID 29<br />
 #define VOLATILE 30<br />
 #define WHILE 31<br />
+
+Rest of the single character tokens are: - '{','}','(',')','<','>','+','-','\','*' etc.
