@@ -1,5 +1,7 @@
 # Daipayan's experimental lexer(DELex) for C programming language
 
+Link for code documentation :- ![alt text](https://github.com/daipayan-bhowal/Lexer_in_C/blob/main/sample_files/Lexer_in_C_documentation.pptx)
+
 ![alt text](https://github.com/daipayan-bhowal/Lexer_in_C/blob/main/sample_files/DELex.jpg)
 
 Lexer fetches all the tokens present in C programming language
