@@ -1,6 +1,6 @@
 # Daipayan's experimental lexer(DELex) for C programming language
 
-Link for code documentation :- (https://github.com/daipayan-bhowal/Lexer_in_C/blob/main/sample_files/Lexer_in_C_documentation.pptx)
+Link for code documentation :- (https://github.com/daipayan-bhowal/Lexer_in_C/blob/main/sample_files/Lexer%20in%20C%20documentation.pptx)
 
 ![alt text](https://github.com/daipayan-bhowal/Lexer_in_C/blob/main/sample_files/DELex.jpg)
 
