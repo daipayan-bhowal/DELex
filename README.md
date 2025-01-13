@@ -2,6 +2,9 @@
 
 Link for code documentation :- (https://github.com/daipayan-bhowal/Lexer_in_C/blob/main/sample_files/Lexer%20in%20C%20documentation.pptx)
 
+Sample file input:- https://github.com/daipayan-bhowal/Lexer_in_C/blob/main/sample_files/stmt.c
+
+Output for sample file:-
 ![alt text](https://github.com/daipayan-bhowal/Lexer_in_C/blob/main/sample_files/DELex.jpg)
 
 Lexer fetches all the tokens present in C programming language
