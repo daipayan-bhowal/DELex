@@ -275,9 +275,10 @@ void tokenizer(string_t str)
 		printf("Returned token is:%d\n", t = getTokenByPos(str, &i));
 		end_position = i;
 		token_struct_ptr->start_pos = start_position;
-		token_struct_ptr->len = end_position - start_position+1;
+		token_struct_ptr->len = end_position - start_position;
 		token_struct_ptr->token_integerform = t;
 		token_struct_ptr->str_token = partOfstring(str, start_position, token_struct_ptr->len);
+		printf("String token is:%s\n", token_struct_ptr->str_token->str);
 		token_struct_len++;
 		token_struct_ptr =(struct Token*)realloc(token_struct_ptr, sizeof(struct Token)* token_struct_len);
 		//    printf("pos is:%d\n", i);
